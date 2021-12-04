@@ -1,0 +1,113 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (nodejs)
+version: (1.0.0)
+description:
+entry point: (object.js)
+test command:
+git repository:
+keywords:
+author:
+license: (ISC)
+About to write to C:\Users\Priyanshu Bansal\Desktop\nodejs\package.json:
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "main": "object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> npm install
+
+up to date, audited 1 package in 846ms
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs>  npm install express --save
+
+added 50 packages, and audited 51 packages in 9s
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> npm uninstall ex
+
+up to date, audited 51 packages in 2s
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> npm uninstall ex
+
+up to date, audited 51 packages in 2s
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> 
+
+
+
+
+
+
+
+
+
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs>
+
+
+
+
+                                             npm uninstall express
+
+removed 50 packages, and audited 1 package in 1s
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs>
+
+
+
+
+                                             npm uninstall express
+
+removed 50 packages, and audited 1 package in 1s
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs>
+
+
+
+
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> npm i -g nodemon
+
+added 116 packages, and audited 117 packages in 34s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\Priyanshu Bansal\Desktop\nodejs> 
